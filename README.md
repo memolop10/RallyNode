@@ -1,3 +1,3 @@
 # RallyNode
 
-#diversos ejercicio usando nodejs 
+#diversos ejercicios usando nodejs 
